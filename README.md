@@ -1,3 +1,5 @@
+<img src="oahu.jpg" alt="drawing" width="300"/>
+
 # Climate Analysis
 
 # Project Overview: Investing in Waves and Ice Cream
