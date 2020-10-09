@@ -1,6 +1,6 @@
 <img src="oahu.jpg" alt="drawing" width="300"/>
 
-# Climate Analysis
+# Oahu Climate Analysis
 
 ## Project Overview
 Before W.Avy can invest into the Waves and Ice Cream venture he would like you to run an analysis and gather information about seasonal data of Oahu to determine if the weather could affect the Waves and Ice Cream shop.
